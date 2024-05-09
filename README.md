@@ -79,7 +79,9 @@ While this question is up to you, having a basic understanding of programming la
 
 ### How can you define Blue Team and Red Team basically?
 
-Red team is attacker side, blue team is defender side.
+Red team is attacker side.They simulate attacks against an organization's defenses to identify vulnerabilities, weaknesses, and potential points of exploitation.
+ 
+blue team is defender side. They are responsible for protecting an organization's assets, networks, and systems from cyber threats..
 
 ### What is Firewall?
 
